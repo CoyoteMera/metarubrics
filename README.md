@@ -1,10 +1,16 @@
-# Metarubrics
+# Metarubrics → Sidecar
+
+**Metarubrics ahora se llama Sidecar y vive en WAOS Studio:
+[studio.waosoriginals.com/sidecar](https://studio.waosoriginals.com/sidecar/).**
+Esta copia ya no se actualiza; la página de GitHub Pages solo lleva a Sidecar.
+
+---
 
 Editor de metadatos de post — ALE, CSV, XLSX y CDL — que corre entero en el
 navegador. Ningún archivo sale de tu máquina: no hay servidor, no hay subida,
 no hay cuenta.
 
-**→ [coyotemera.github.io/metarubrics](https://coyotemera.github.io/metarubrics/)**
+**→ [studio.waosoriginals.com/sidecar](https://studio.waosoriginals.com/sidecar/)**
 
 ## Qué hace
 
@@ -18,7 +24,7 @@ no hay cuenta.
 
 ## Sobre este repositorio
 
-Aquí solo vive el artefacto compilado que sirve GitHub Pages. El código fuente
+Aquí vivía el artefacto compilado que servía GitHub Pages; hoy solo queda la página que lleva a Sidecar. El código fuente
 no es público. Ver [LICENSE](LICENSE) — software propietario, todos los
 derechos reservados.
 
